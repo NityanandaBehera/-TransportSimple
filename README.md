@@ -1,4 +1,4 @@
-# DRF Project Management API
+#Transport Simple Assessment
 
 A Django project for TransportSimple.
 
@@ -13,7 +13,7 @@ A Django project for TransportSimple.
 1. Clone the repository:
 ```bash
 https://github.com/NityanandaBehera/-TransportSimple.git
-cd project-management
+cd TransportSimple
 ```
 
 2. Create and activate virtual environment:
